@@ -1,0 +1,84 @@
+html, body{
+  height: 100%;
+  margin: 0;
+  }
+
+  body{
+    background: white;
+  }
+
+  h1{
+    font-family: 'Cormorant SC', serif;
+    font-size: 50px;
+    color: #43312d;
+  }
+
+  h2{
+  font-family: 'Julius Sans One', sans-serif;
+    color: #43312d;
+
+  }
+
+  p{
+  font-family: 'Dawning of a New Day', cursive;
+    margin: 0;
+  }
+
+  img.fotoenizquierda {
+    float: left;
+    margin-right: 20px;
+  }
+
+  /* propiedades del div1 */
+  .cuadrodescripcion{
+  width: auto;
+  height: 210px;
+  margin: 60px 380px 60px 380px;
+  padding: 15px;
+  background-color: #dfd2cf;
+  border-style: solid;
+  border-color: white;
+  }
+
+  /* propiedades del divlinea */
+  .linea{
+  width: auto;
+  height: 50px;
+  margin: 100px 600px 100px 600px;
+  padding: 15px;
+  background-color: white;
+  border-style: solid;
+  border-color: white;
+  }
+
+  /* propiedades del div2 */
+  .video{
+  width: auto;
+  height: 600px;
+  margin: 100px 380px 150px 380px;
+  padding: 15px;
+  background-color: white;
+  border-style: solid;
+  border-color: #43312d;
+  }
+
+  /* propiedades div padre */
+  .storyboardscontenedor{
+      text-align: center;
+  }
+
+  .Storyboard{
+    padding: 40px;
+    margin: 10px;
+    display: inline-block;
+  }
+
+  .video2{
+    width: auto;
+    height: 60px;
+    margin: 10px 380px 20px 380px;
+    padding: 15px;
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    }
