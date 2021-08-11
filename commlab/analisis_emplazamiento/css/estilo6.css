@@ -1,0 +1,141 @@
+html, body{
+  height: 100%;
+  margin: 0;
+  }
+
+
+  h1{
+    font-family: 'Staatliches', cursive;
+    font-size: 40px;
+  }
+    h2{
+    font-family: 'Julius Sans One', sans-serif;
+      color: #43312d;
+  }
+  h3{
+    font-family: 'Julius Sans One', sans-serif;
+      color: #43312d;
+      font-size: 12px;
+  }
+
+    }
+    h4{
+      font-family: 'BenchNine', sans-serif;
+      color: #43312d;
+    }
+
+
+
+    /* linea */
+    hr {
+      height: 1px;
+      width: 750px;
+      background-color: black;
+    }
+
+  /* contenedor de los botones superiores */
+    .botoninicio{
+      margin: 5px;
+      background-color: #f1f1f1;
+    }
+
+
+  /* botones superiores */
+  .btninicio{
+    margin: 30px 50px 30px 30px;
+    background-color: pink;
+    width: 120px;
+    height: 45px;
+    border-style: solid;
+    border-color: pink;
+  }
+
+
+
+/* diagrama grande */
+.diagramappal{
+  width: 70%;
+    height: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+/* trio de imagenes */
+.padrecontenedor2{
+  background: white;
+  height: 750px;
+  padding: 15px;
+  /*para que me quede centrado y sin nada al lado*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.contenedor2{
+    content: "";
+    display: table;
+    clear: both;
+background: white;
+width: 70%;
+height: 450px;
+border-style: solid;
+border-color: white;
+border-width: 5px;
+
+display: flex;
+ justify-content: space-between;
+}
+
+.analisis1{
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: gray;
+  float: left;
+}
+
+.analisis2{
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: gray;
+  display: inline-block;
+}
+
+.analisis3{
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: gray;
+  float: right;
+}
+
+
+/* pie de la pagina web con mis datos */
+.misdatos{
+
+    height: 210px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #e4e9ec;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-size: cover;
+    background-color: #e4e9ec;
+}
