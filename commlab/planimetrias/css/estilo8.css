@@ -1,0 +1,114 @@
+html, body{
+  height: 100%;
+  margin: 0;
+  }
+
+
+
+h1{
+  font-family: 'Staatliches', cursive;
+  font-size: 40px;
+}
+  h2{
+  font-family: 'Julius Sans One', sans-serif;
+    color: #43312d;
+}
+h3{
+  font-family: 'Julius Sans One', sans-serif;
+    color: #43312d;
+    font-size: 12px;
+}
+
+  }
+  h4{
+    font-family: 'Big Shoulders Text', cursive;
+    color: #43312d;
+  }
+
+
+
+  /* linea */
+  hr {
+    height: 1px;
+    width: 750px;
+    background-color: black;
+  }
+
+/* contenedor de los botones superiores */
+  .botoninicio{
+    margin: 5px;
+    background-color: #f1f1f1;
+  }
+
+
+/* botones superiores */
+.btninicio{
+  margin: 30px 50px 30px 30px;
+  background-color: pink;
+  width: 120px;
+  height: 45px;
+  border-style: solid;
+  border-color: pink;
+}
+
+
+
+/* emplazamiento */
+.emplazamiento{
+  width: 750px;
+    height: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+/* plantas */
+.plantas{
+  width: 750px;
+    height: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+/* cortes */
+.cortes{
+  width: 750px;
+    height: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+/* fotomontajes */
+.fotomontajes{
+  width: 750px;
+    height: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+/* pie de la pagina web con mis datos */
+.misdatos{
+
+    height: 210px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #e4e9ec;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-size: cover;
+    background-color: #e4e9ec;
+}
